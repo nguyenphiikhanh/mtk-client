@@ -1,0 +1,44 @@
+.agents
+.idea
+.vscode
+
+# Unity cache và dữ liệu cục bộ
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+*.log
+
+# File do IDE tạo
+.vs/
+.idea/
+.gradle/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.tmp
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# File lỗi và bản build xuất ra
+sysinfo.txt
+mono_crash.*
+ExportedObj/
+*.apk
+*.aab
+*.app
+*.unitypackage
